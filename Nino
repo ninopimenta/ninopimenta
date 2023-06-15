@@ -26,9 +26,4 @@ elif operacao == "/":
 else:    
     print('operacao é invalida')
 
-- 📫 How to reach me ...
 
-<!---
-ninopimenta/ninopimenta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
