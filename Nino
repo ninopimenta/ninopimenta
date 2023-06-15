@@ -1,7 +1,31 @@
-- 👋 Hi, I’m @ninopimenta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @ninopimenta# Calculadora Python
+######################
+
+# Perguntar pro usuário qual o tipo de operação
+# Perguntar o primeiro número
+# Perguntar o segundo número
+# Cálculo desses 2 números
+# Imprimir o resultado na tela
+
+operacao = input ("Qual operação (+,-,*,/) você quer fazer ")
+num1 = int(input ('digite o primeiro número '))
+num2 = int(input ('digite o primeiro número '))
+
+if operacao == "+":
+    total =  num1 + num2
+    print(total)    
+elif operacao == "-":
+    total =  num1 - num2
+    print(total)    
+elif operacao == "*":
+    total =  num1 * num2
+    print(total)    
+elif operacao == "/":
+    total =  num1 / num2
+    print(total)    
+else:    
+    print('operacao é invalida')
+
 - 📫 How to reach me ...
 
 <!---
